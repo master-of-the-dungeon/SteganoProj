@@ -1,4 +1,6 @@
 #Шифрование в спектрограмме
+
+
 Для использования необходимы библиотеки pillow и matplotlib
 Установка pillow: 
                   $python -m pip install pillow
